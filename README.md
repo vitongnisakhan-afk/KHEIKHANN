@@ -1,17 +1,12 @@
 # 👋 Hi there, I'm Khei Khann (Dev)
-
-🇰🇭 Full-Stack Developer · Founder · Builder from Cambodia
-
+Full-Stack Developer · Founder · Builder from Cambodia
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=KHEIKHANN&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+from+Cambodia+🇰🇭;Founder+of+CodeKhmerLearning;Building+Khmer+Developer+Education;FastAPI+%2B+PostgreSQL+Enthusiast;Open+Source+Khmer+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+from+Cambodia+🇰🇭;Founder+of+ITCAM;Building+Khmer+Developer+Education;FastAPI+%2B+PostgreSQL+Enthusiast;Open+Source+Khmer+Developer" />
 </p>
-
 ### Technology Cambodia
-
 > មិនបារម្ភរឿងភាសា! និស្សិតខ្មែរមួយរូបបង្កើតវេបសាយរៀនកូដជាភាសាជាតិ ជួយសម្រួលដល់ការស្រាវជ្រាវ IT
 
 > *"No language barrier! A Cambodian student built a coding learning website in the national language, making IT research more accessible."*
